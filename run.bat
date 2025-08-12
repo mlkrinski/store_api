@@ -4,7 +4,7 @@ echo  Dev Tools
 echo ==============================
 echo 1 - Run API
 echo 2 - Install pre-commit
-echo 2 - Pytest
+echo 3 - Pytest
 echo ==============================
 set /p choice="Escolha uma opcao: "
 
